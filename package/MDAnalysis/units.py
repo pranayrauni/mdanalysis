@@ -115,7 +115,7 @@ concentration:
 
 Note
 ----
-In the future me might move towards using the Quantities_ package or
+In the future, we might move towards using the Quantities_ package or
 :mod:`scipy.constants`.
 
 
